@@ -7,7 +7,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update, ParseMo
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, ContextTypes, CallbackContext, CallbackQueryHandler
 
 # token
-BotToken = "5734069935:AAE-Mgda8Xl4-c9vcWGpGt7HI8DrfjsUI-8"
+BotToken = "5418902449:AAEcFRBAN6L0FVnoq9RGFRE_iGpyw9bxiWE"
 
 
 # functions
